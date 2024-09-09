@@ -15,13 +15,10 @@
   <a href="https://facebook.com/gheysar.abyan">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://tiktok.com/@yourtiktok">
+  <a href="https://www.tiktok.com/@alqpxnbe_?_t=8pZPEcMbhGG&_r=1">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://youtube.com/c/abyancuyy_">
+  <a href="https://youtube.com/@abyancuyy_?si=BuRR7om5-EhtlLHl">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://dev.to/yourdevto">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
 </p>
