@@ -1,4 +1,4 @@
-<h1 align="center">Halo, Saya Muhammad Gheysar Abyan 👋</h1>
+<h1 align="center">Hello, I'm Muhammad Gheysar Abyan 👋</h1>
 
 <p align="center">Let's connect on my social media:</p>
 
